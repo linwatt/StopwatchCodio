@@ -1,0 +1,196 @@
+{
+ "sections": [
+  {
+   "id": "6d350837-928f-2d71-fc28-b5f441bc3a17",
+   "title": "Activity Lifecycle",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Activity-Lifecycle-6d35.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "68709fe9-f50a-38c9-97fd-7a89c035652b",
+   "title": "Apps and Activities",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Apps-and-Activities-6870.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e360821a-b226-b77c-56e0-b0664071e349",
+   "title": "Activities in Other Apps",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Activities-in-Other-Apps-e360.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7ac60eb4-8533-5e1e-4fe4-f3ac0d82e17f",
+   "title": "Processes and Activities",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Processes-and-Activities-7ac6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "0a4b8aeb-41fe-47e6-bda8-d9cbe199523a",
+   "title": "Stopwatch App",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Stopwatch-App-0a4b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8debed15-333e-1109-ed3c-23c3782a5316",
+   "title": "Create New Project",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Create-New-Project-8deb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "dcdd93bf-ba80-222f-ed91-b15628473557",
+   "title": "Layout XML",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Layout-XML-dcdd.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "29ea58cf-4291-a3cf-8507-8efe6e730e5c",
+   "title": "Add to strings.xml",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Add-to-strings-xml-29ea.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1c1e8abb-81c7-7347-753c-3773bfbfa61c",
+   "title": "Activity",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Activity-1c1e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3d0bd406-e790-71c9-0d27-2bf0c957c3fa",
+   "title": "New Method",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Method-3d0b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "30c4ad1e-b0ed-8bc2-f850-809e6c797eb3",
+   "title": "StopwatchActivity",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/StopwatchActivity-30c4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "aff81027-2f12-5692-c9fc-81e1c51f5d60",
+   "title": "runTimer()",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/runTimer---aff8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1ff5230e-41b6-cba3-e2c8-3f74472e6b05",
+   "title": "Handler",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Handler-1ff5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1a2e0f50-96ff-b245-3d52-324631cd18bb",
+   "title": "postDelayed()",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/postDelayed---1a2e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "97c180ee-0b62-a842-d9fc-383e1cd9d85f",
+   "title": "Update runTimer()",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Update-runTimer---97c1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "50085e8e-65d6-43a8-14ad-de726ec49993",
+   "title": "Update StopwatchActivity",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Update-StopwatchActivity-5008.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9be37892-a490-d389-78fa-ba86c36ea990",
+   "title": "Orientation",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Orientation-9be3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
