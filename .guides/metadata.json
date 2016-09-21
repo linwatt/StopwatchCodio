@@ -71,7 +71,14 @@
   {
    "id": "dcdd93bf-ba80-222f-ed91-b15628473557",
    "title": "Layout XML",
-   "files": [],
+   "files": [
+    {
+     "path": "Stopwatch/app/src/main/res/layout/activity_stopwatch.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Layout-XML-dcdd.md",
@@ -82,7 +89,18 @@
   {
    "id": "29ea58cf-4291-a3cf-8507-8efe6e730e5c",
    "title": "Add to strings.xml",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "Stopwatch/app/src/main/res/values/strings.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Add-to-strings-xml-29ea.md",
@@ -93,7 +111,13 @@
   {
    "id": "1c1e8abb-81c7-7347-753c-3773bfbfa61c",
    "title": "Activity",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Activity-1c1e.md",
@@ -115,7 +139,14 @@
   {
    "id": "30c4ad1e-b0ed-8bc2-f850-809e6c797eb3",
    "title": "StopwatchActivity",
-   "files": [],
+   "files": [
+    {
+     "path": "Stopwatch/app/src/main/java/com/hfad/stopwatch/StopwatchActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/StopwatchActivity-30c4.md",
@@ -179,9 +210,37 @@
    "teacherOnly": false
   },
   {
+   "id": "173b1e0b-cf56-fb4c-d624-63cc54f12574",
+   "title": "Test Drive the app!",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Test-Drive-the-app--173b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "9be37892-a490-d389-78fa-ba86c36ea990",
    "title": "Uh-oh...",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Uh-oh----9be3.md",
@@ -281,7 +340,14 @@
   {
    "id": "6f913863-05bc-93ab-61c3-87113544ed2a",
    "title": "onSaveInstanceState() Method",
-   "files": [],
+   "files": [
+    {
+     "path": "Stopwatch/app/src/main/java/com/hfad/stopwatch/StopwatchActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/onSaveInstanceState---Method-6f91.md",
@@ -314,7 +380,13 @@
   {
    "id": "1b649517-8281-c614-1be7-d7f791255237",
    "title": "Rotation Test",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Rotation-Test-1b64.md",
@@ -370,7 +442,14 @@
   {
    "id": "3dc5aff1-1964-f877-9583-8ba26d2af006",
    "title": "onStop()",
-   "files": [],
+   "files": [
+    {
+     "path": "Stopwatch/app/src/main/java/com/hfad/stopwatch/StopwatchActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/onStop---3dc5.md",
@@ -403,7 +482,13 @@
   {
    "id": "50e9bea3-49c0-58e1-64c7-c4e8bae60662",
    "title": "App Functionality",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/App-Functionality-50e9.md",
@@ -447,7 +532,14 @@
   {
    "id": "65bec2f2-495b-b7e9-9f30-25e9652b9f54",
    "title": "onPause()",
-   "files": [],
+   "files": [
+    {
+     "path": "Stopwatch/app/src/main/java/com/hfad/stopwatch/StopwatchActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/onPause---65be.md",
@@ -458,7 +550,13 @@
   {
    "id": "4dfe84d6-2026-9199-c53c-5d78e6dcff08",
    "title": "New App Functionality",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/New-App-Functionality-4dfe.md",
@@ -491,7 +589,14 @@
   {
    "id": "57eeeb42-b846-afb4-4d2e-d66ca22de899",
    "title": "Demo App",
-   "files": [],
+   "files": [
+    {
+     "path": "#terminal: cd Stopwatch",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Demo-App-57ee.md",
@@ -502,7 +607,13 @@
   {
    "id": "4a1773c4-bdba-b176-3337-346009889ca9",
    "title": "Recap - Activity Lifecycles",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Recap---Activity-Lifecycles-4a17.md",

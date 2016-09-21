@@ -1,7 +1,3 @@
-![](.guides/img/29.png)
-
-See how these changes effect your app!
-
 This app can be built using codio!
 
 To build the app, enter the following in the terminal:
